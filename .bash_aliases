@@ -1,4 +1,5 @@
 alias code="cd ~/workspace/code"
 alias k="kubectl"
+alias omz="cd ~/.oh-my-zsh"
 alias tf="terraform"
 alias ws="cd ~/workspace"

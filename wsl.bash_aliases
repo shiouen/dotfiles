@@ -1,0 +1,5 @@
+alias code="cd /mnt/c/Users/Olivier/workspace/code"
+alias k="kubectl"
+alias omz="cd ~/.oh-my-zsh"
+alias tf="terraform"
+alias ws="cd /mnt/c/Users/Olivier/workspace"
