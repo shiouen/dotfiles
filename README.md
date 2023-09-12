@@ -1,2 +1,2 @@
 # Dotfiles
-About My Linux dot files.
+Unix dot files.
